@@ -40,6 +40,19 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1754148661710",
+          "name": "follow",
+          "url": "https://app.follow.is/timeline/view-0/all/pending",
+          "description": "热文",
+          "icon": "/sitelogo/app.follow.is.ico"
+        },
+        {
+          "id": "site-1755228619518",
+          "name": "AI资讯日报",
+          "url": "https://ai.hubtoday.app",
+          "description": ""
         }
       ]
     },
@@ -49,20 +62,6 @@ export const mockData = {
       "icon": "🤖",
       "order": 1,
       "sites": [
-        {
-          "id": "chatgpt",
-          "name": "ChatGPT",
-          "url": "https://chat.openai.com",
-          "description": "OpenAI对话AI助手",
-          "icon": "/sitelogo/chat.openai.com.ico"
-        },
-        {
-          "id": "claude",
-          "name": "Claude",
-          "url": "https://claude.ai",
-          "description": "Anthropic AI助手",
-          "icon": "/sitelogo/claude.ai.ico"
-        },
         {
           "id": "midjourney",
           "name": "Midjourney",
@@ -78,11 +77,50 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
-          "id": "cursor",
-          "name": "Cursor",
-          "url": "https://cursor.sh",
-          "description": "AI代码编辑器",
-          "icon": "/sitelogo/cursor.sh.ico"
+          "id": "site-1754162871498",
+          "name": "ai导航页",
+          "url": "https://ai-bot.cn/ai-app-store/",
+          "description": "",
+          "icon": "/sitelogo/ai-bot.cn.ico"
+        },
+        {
+          "id": "site-1754162953395",
+          "name": "waytoagi",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e",
+          "description": "waytoagi的飞书文档",
+          "icon": "/sitelogo/waytoagi.feishu.cn.ico"
+        },
+        {
+          "id": "site-1754163022828",
+          "name": "即梦",
+          "url": "https://jimeng.jianying.com/ai-tool/home?type=actionCopy",
+          "description": "",
+          "icon": "/sitelogo/jimeng.jianying.com.ico"
+        },
+        {
+          "id": "site-1754163137268",
+          "name": "aiart",
+          "url": "https://aiart.gcc.ac.cn/",
+          "description": "免费ai画图"
+        },
+        {
+          "id": "site-1754163176469",
+          "name": "raphael",
+          "url": "https://raphael.app/zh",
+          "description": "免费ai画图2，并且支持语音生成",
+          "icon": "/sitelogo/raphael.app.ico"
+        },
+        {
+          "id": "site-1754638869318",
+          "name": "ai抠图",
+          "url": "https://www.koukoutu.com",
+          "description": ""
+        },
+        {
+          "id": "site-1754760029696",
+          "name": "免费api汇总",
+          "url": "https://linux.do/t/topic/694442",
+          "description": ""
         }
       ]
     },
@@ -164,13 +202,6 @@ export const mockData = {
           "icon": "/sitelogo/code.visualstudio.com.ico"
         },
         {
-          "id": "webstorm",
-          "name": "WebStorm",
-          "url": "https://www.jetbrains.com/webstorm/",
-          "description": "专业前端IDE",
-          "icon": "/sitelogo/www.jetbrains.com.ico"
-        },
-        {
           "id": "postman",
           "name": "Postman",
           "url": "https://www.postman.com",
@@ -183,13 +214,6 @@ export const mockData = {
           "url": "https://developer.android.com/studio",
           "description": "Android官方开发工具",
           "icon": "/sitelogo/developer.android.com.ico"
-        },
-        {
-          "id": "oracle-java",
-          "name": "Oracle Java",
-          "url": "https://www.oracle.com/java/technologies/downloads/",
-          "description": "Oracle官方Java下载",
-          "icon": "/sitelogo/www.oracle.com.ico"
         }
       ]
     },
@@ -342,6 +366,13 @@ export const mockData = {
       "icon": "📚",
       "order": 6,
       "sites": [
+        {
+          "id": "site-1754148535461",
+          "name": "roadmap",
+          "url": "https://roadmap.sh/",
+          "description": "开发者的成长路线培养",
+          "icon": "/sitelogo/roadmap.sh.ico"
+        },
         {
           "id": "mdn",
           "name": "MDN Web Docs",
