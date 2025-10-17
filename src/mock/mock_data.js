@@ -7,25 +7,11 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
-        },
-        {
           "id": "linux-do",
           "name": "Linux.do",
           "url": "https://linux.do",
           "description": "Linux技术社区，Peace and Love",
           "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "site-1752649007053",
-          "name": "BeJson",
-          "url": "https://www.bejson.com/",
-          "description": "工具大全",
-          "icon": "/sitelogo/www.bejson.com.ico"
         },
         {
           "id": "github",
@@ -46,13 +32,20 @@ export const mockData = {
           "name": "follow",
           "url": "https://app.follow.is/timeline/view-0/all/pending",
           "description": "热文",
-          "icon": "/sitelogo/app.follow.is.ico"
+          "icon": " https://app.folo.is/favicon.ico"
         },
         {
           "id": "site-1755228619518",
           "name": "AI资讯日报",
           "url": "https://ai.hubtoday.app",
           "description": ""
+        },
+        {
+          "id": "site-1760713707925",
+          "name": "豌豆花下猫",
+          "url": "https://pythoncat.top/",
+          "description": "",
+          "icon": "https://pythoncat.top/favicon.svg"
         }
       ]
     },
@@ -214,6 +207,13 @@ export const mockData = {
           "url": "https://developer.android.com/studio",
           "description": "Android官方开发工具",
           "icon": "/sitelogo/developer.android.com.ico"
+        },
+        {
+          "id": "site-1752649007053",
+          "name": "BeJson",
+          "url": "https://www.bejson.com/",
+          "description": "工具大全",
+          "icon": "/sitelogo/www.bejson.com.ico"
         }
       ]
     },
@@ -436,6 +436,20 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
+        },
+        {
+          "id": "site-1760710920600",
+          "name": "pypi镜像源",
+          "url": "https://help.mirrors.cernet.edu.cn/pypi/",
+          "description": "各种镜像源,linux等",
+          "icon": "https://help.mirrors.cernet.edu.cn/favicon/favicon.svg"
+        },
+        {
+          "id": "site-1760715388278",
+          "name": "鸠摩搜索",
+          "url": "https://www.jiumodiary.com/",
+          "description": "",
+          "icon": "https://www.jiumodiary.com/images/favicon.png"
         }
       ]
     },
@@ -508,6 +522,28 @@ export const mockData = {
           "url": "https://www.feishu.cn",
           "description": "企业协作平台",
           "icon": "/sitelogo/www.feishu.cn.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1760711005672",
+      "icon": "📊",
+      "name": "阅读",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1760711051344",
+          "name": "学习强国",
+          "url": "https://www.xuexi.cn/xxqg.html?id=1c3qf8mvh7f1c3qf8mvh7f1c3qf8mvh7",
+          "description": "",
+          "icon": "https://www.xuexi.cn/favicon.ico"
+        },
+        {
+          "id": "site-1760711137264",
+          "name": "日语学习指南",
+          "url": "https://res.wokanxing.info/jpgramma/introduction.html",
+          "description": "",
+          "icon": " https://res.wokanxing.info/favicon.ico"
         }
       ]
     }
